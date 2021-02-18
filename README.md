@@ -1,6 +1,6 @@
 # git-test
 
-welcome to myrepo
+welcome to my repo
 
-1- Don't forget to check this out,
-2- Don't forget to check that out,
+1. Don't forget to check this out,
+2. Don't forget to check that out,
